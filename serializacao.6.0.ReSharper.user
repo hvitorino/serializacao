@@ -1,0 +1,207 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="serializacao.teste.DadoUmSerializador" type="NUnitTestFixtureElement" Project="498AED29-59CC-4E3C-B96C-7432F99FD3D8" />
+        <UnitTestElement Provider="nUnit" Id="serializacao.teste.DadoUmSerializador.PossoSerializarObjetoEmFormatoJson" ParentId="serializacao.teste.DadoUmSerializador" type="NUnitTestElement" TypeName="serializacao.teste.DadoUmSerializador" MethodName="PossoSerializarObjetoEmFormatoJson" Project="498AED29-59CC-4E3C-B96C-7432F99FD3D8" />
+        <UnitTestElement Provider="nUnit" Id="serializacao.teste.DadoUmSerializador.PossoSerializarUmExpandoObject" ParentId="serializacao.teste.DadoUmSerializador" type="NUnitTestElement" TypeName="serializacao.teste.DadoUmSerializador" MethodName="PossoSerializarUmExpandoObject" Project="498AED29-59CC-4E3C-B96C-7432F99FD3D8" />
+        <UnitTestElement Provider="nUnit" Id="serializacao.teste.DadoUmSerializador.PossoSerializarUmObjectCriadoComDynamicObjectBuilder" ParentId="serializacao.teste.DadoUmSerializador" type="NUnitTestElement" TypeName="serializacao.teste.DadoUmSerializador" MethodName="PossoSerializarUmObjectCriadoComDynamicObjectBuilder" Project="498AED29-59CC-4E3C-B96C-7432F99FD3D8" />
+        <UnitTestElement Provider="nUnit" Id="serializacao.teste.DadoUmSerializador.PossoSerializarUmObjetoAnonimo" ParentId="serializacao.teste.DadoUmSerializador" type="NUnitTestElement" TypeName="serializacao.teste.DadoUmSerializador" MethodName="PossoSerializarUmObjetoAnonimo" Project="498AED29-59CC-4E3C-B96C-7432F99FD3D8" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Objeto.cs" caret="22" fromTop="0" />
+      <File id="EEA2DF3F-0277-498D-953F-2F9895D75092/f:String.cs" caret="382" fromTop="8" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:DynamicObjectBuilder.cs" caret="508" fromTop="14" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:ObjectExtensions.cs" caret="206" fromTop="7" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeObject.cs" caret="157" fromTop="9" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeObjeto.cs" caret="158" fromTop="9" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:ISerializador.cs" caret="83" fromTop="4" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Serializador.cs" caret="573" fromTop="12" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeAnonimos.cs" caret="347" fromTop="19" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeExpandoObject.cs" caret="197" fromTop="11" />
+      <File id="498AED29-59CC-4E3C-B96C-7432F99FD3D8/f:DadoUmSerializador.cs" caret="529" fromTop="20" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="230" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="8" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeExpandoObject.cs" caret="149" fromTop="6" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeExpandoObject.cs" caret="312" fromTop="18" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="22" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="21" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="21" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="29" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:ISerializador.cs" caret="83" fromTop="4" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Serializador.cs" caret="156" fromTop="7" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Serializador.cs" caret="599" fromTop="15" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeAnonimos.cs" caret="162" fromTop="9" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeExpandoObject.cs" caret="197" fromTop="11" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeObjeto.cs" caret="158" fromTop="9" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:SerializadorDeObject.cs" caret="157" fromTop="9" />
+      <File id="498AED29-59CC-4E3C-B96C-7432F99FD3D8/f:DadoUmSerializador.cs" caret="187" fromTop="10" />
+      <File id="498AED29-59CC-4E3C-B96C-7432F99FD3D8/f:DadoUmSerializador.cs" caret="540" fromTop="20" />
+      <File id="498AED29-59CC-4E3C-B96C-7432F99FD3D8/f:DadoUmSerializador.cs" caret="1116" fromTop="33" />
+      <File id="498AED29-59CC-4E3C-B96C-7432F99FD3D8/f:DadoUmSerializador.cs" caret="992" fromTop="32" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="12" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1511" fromTop="24" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="23" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="698" fromTop="16" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="485" fromTop="9" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="331" fromTop="5" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="860" fromTop="20" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1436" fromTop="24" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1437" fromTop="25" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="1421" fromTop="22" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="526" fromTop="13" />
+      <File id="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF/f:Teste.cs" caret="146" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="TestCase" priority="31" />
+      <Item value="void" priority="159" />
+      <Item value="serializador" priority="161" />
+      <Item value="new" priority="511" />
+      <Item value="var" priority="511" />
+      <Item value="objeto" priority="97" />
+      <Item value="DadoUmObjeto" priority="29" />
+      <Item value="Assert`0" priority="31" />
+      <Item value="json" priority="123" />
+      <Item value="Is`0" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="DadoUmObjeto`0" priority="31" />
+      <Item value="using" priority="126" />
+      <Item value="Newtonsoft.Json" priority="30" />
+      <Item value="serializer" priority="129" />
+      <Item value="JsonSerializer" priority="28" />
+      <Item value="JsonWriter`0" priority="29" />
+      <Item value="JsonTextWriter`0" priority="63" />
+      <Item value="StringWriter" priority="57" />
+      <Item value="return" priority="31" />
+      <Item value="writer" priority="160" />
+      <Item value="jsonString" priority="154" />
+      <Item value="public" priority="158" />
+      <Item value="static" priority="126" />
+      <Item value="Console`0" priority="127" />
+      <Item value="private" priority="95" />
+      <Item value="JsonSerializer`0" priority="31" />
+      <Item value="StringBuilder`0" priority="31" />
+      <Item value="ctor" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="Serializador`0" priority="95" />
+      <Item value="base" priority="95" />
+      <Item value="object" priority="153" />
+      <Item value="dto" priority="31" />
+      <Item value="SerializadorDeObject`0" priority="31" />
+      <Item value="virtual" priority="31" />
+      <Item value="override" priority="63" />
+      <Item value="int" priority="159" />
+      <Item value="SerializadorDeObject" priority="56" />
+      <Item value="EnvironmentVariableTarget`0" priority="31" />
+      <Item value="SerializadorDeObjeto" priority="55" />
+      <Item value="SerializadorDeAnonimos" priority="57" />
+      <Item value="for" priority="63" />
+      <Item value="i" priority="63" />
+      <Item value="execucoes" priority="95" />
+      <Item value="class" priority="30" />
+      <Item value="action" priority="96" />
+      <Item value="quantidade" priority="31" />
+      <Item value="serializadorDeObject" priority="31" />
+      <Item value="serializadorDeObjeto" priority="26" />
+      <Item value="Objeto" priority="57" />
+      <Item value="Chave" priority="63" />
+      <Item value="Valor" priority="65" />
+      <Item value="SerializadorDeAnonimos`0" priority="26" />
+      <Item value="TimeSpan`0" priority="63" />
+      <Item value="DateTime`0" priority="95" />
+      <Item value="fim" priority="31" />
+      <Item value="inicio" priority="31" />
+      <Item value="total" priority="63" />
+      <Item value="Executa`0" priority="31" />
+      <Item value="double" priority="127" />
+      <Item value="dynamic" priority="31" />
+      <Item value="serializadorDeExpandoObject" priority="26" />
+      <Item value="ISerializador`0" priority="31" />
+      <Item value="const" priority="63" />
+      <Item value="dezMil" priority="31" />
+      <Item value="foreach" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Newtonsoft.Json.JsonSerializer">
+      <Item value="Serialize`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Newtonsoft.Json.JsonTextWriter">
+      <Item value="Close`0" priority="81" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Clear`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Read`0" priority="26" />
+      <Item value="WriteLine`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToDto`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:serializacao.DynamicObjectBuilder`1">
+      <Item value="Include`0" priority="80" />
+      <Item value="Build`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action">
+      <Item value="Invoke`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="Vezes`0" priority="105" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:serializacao.SerializadorDeObject">
+      <Item value="Serializa`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Ticks" priority="53" />
+      <Item value="Subtract`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Milliseconds" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:serializacao.Serializador">
+      <Item value="GetType`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.7\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

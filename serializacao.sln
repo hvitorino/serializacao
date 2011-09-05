@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serializacao", "serializacao\serializacao.csproj", "{BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serializacao.teste", "serializacao.teste\serializacao.teste.csproj", "{498AED29-59CC-4E3C-B96C-7432F99FD3D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498AED29-59CC-4E3C-B96C-7432F99FD3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498AED29-59CC-4E3C-B96C-7432F99FD3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498AED29-59CC-4E3C-B96C-7432F99FD3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498AED29-59CC-4E3C-B96C-7432F99FD3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

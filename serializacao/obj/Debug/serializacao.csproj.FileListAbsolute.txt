@@ -1,0 +1,12 @@
+D:\Git\serializacao\serializacao\serializacao\bin\Debug\serializacao.pdb
+D:\Git\serializacao\serializacao\serializacao\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\serializacao\serializacao\serializacao\obj\Debug\serializacao.pdb
+D:\Git\serializacao\serializacao\serializacao\bin\Debug\Newtonsoft.Json.dll
+D:\Git\serializacao\serializacao\serializacao\bin\Debug\serializacao.exe
+D:\Git\serializacao\serializacao\serializacao\obj\Debug\serializacao.exe
+D:\Git\serializacao\serializacao\bin\Debug\serializacao.exe
+D:\Git\serializacao\serializacao\bin\Debug\serializacao.pdb
+D:\Git\serializacao\serializacao\bin\Debug\Newtonsoft.Json.dll
+D:\Git\serializacao\serializacao\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\serializacao\serializacao\obj\Debug\serializacao.exe
+D:\Git\serializacao\serializacao\obj\Debug\serializacao.pdb

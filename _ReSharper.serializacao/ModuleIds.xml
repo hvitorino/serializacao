@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="BABEDB3D-DAA4-482E-AEEF-2DFF4EBD9DBF" ModuleId="serializacao" />
+  <Module PersistentId="498AED29-59CC-4E3C-B96C-7432F99FD3D8" ModuleId="serializacao.teste" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_1" />
+</Modules>
